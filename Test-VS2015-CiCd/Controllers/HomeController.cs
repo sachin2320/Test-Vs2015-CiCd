@@ -22,7 +22,7 @@ namespace Test_VS2015_CiCd.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page auto deploy test new";
+            ViewBag.Message = "Your contact page auto deploy test new 2015";
 
             return View();
         }
