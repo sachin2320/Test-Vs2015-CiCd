@@ -15,7 +15,7 @@ namespace Test_VS2015_CiCd.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Deploy with auto deply with vs 2015";
 
             return View();
         }
